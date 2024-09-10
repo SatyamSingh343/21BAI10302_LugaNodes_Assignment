@@ -21,7 +21,7 @@ This project monitors Ethereum Beacon Chain deposit events in real-time using Al
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/SatyamSingh343/21BAI10302_Luganodes_Assignment.git
 
 2. **Move to the project directory:**
 
