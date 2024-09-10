@@ -146,5 +146,5 @@ const subscribeToDepositEvents = () => {
 
 // Send a startup notification and begin listening for events
 //To see Live updates join Telegram group https://t.me/luganordes21BAI10302
-sendTelegramNotification("The Tracker is live and it is running");
+sendTelegramNotification("The Tracker is live and it is  running");
 subscribeToDepositEvents();

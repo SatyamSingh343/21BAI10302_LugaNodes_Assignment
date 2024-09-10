@@ -44,4 +44,4 @@ This project monitors Ethereum Beacon Chain deposit events in real-time using Al
 
 Once you've configured the .env file and started the tracker, join telegram channel to get live updates https://t.me/luganordes21BAI10302 after running the tracker.js with prefilled .env
 
-Demo Video - https://drive.google.com/file/d/1p-OOw1D0c_Mr2f1hH3JeBc1tI1bSNyzT/view
+Demo Video - https://drive.google.com/file/d/1WlNNSSTEMFVg9Nu4RVSO2OIpLhYC8dJR/view?usp=drive_link
